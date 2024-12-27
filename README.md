@@ -9,7 +9,7 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone `
+- $ `git clone https://github.com/golemfatherofddos/golem.git`
 - $ `cd golem`
 - $ `chmod +x golem.py`
 - $ `python2 golem.py`
