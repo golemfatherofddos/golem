@@ -22,7 +22,7 @@ os.system("clear")
 os.system("GOLEM DDOS ")
 print
 print "Coded By : @GOLEM_OWNER"
-print "Telegram : t.me/Crackerspace"
+print "Telegram : https://t.me/golemxddos"
 print "Note- FOR MORE TOOLS STAY UPDATED IN TELEGRAM CHANNEL"
 print
 ip = raw_input("IP Target : ")
